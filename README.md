@@ -30,16 +30,3 @@ This project explores **Quantum Computing** for drug discovery using **Amazon Br
 
 ---
 
-## 📂 Project Structure
-
-Quantum-Drug-Discovery/
-│── frontend/               # React Frontend
-│   ├── src/
-│   │   ├── components/     # UI Components
-│   │   ├── App.jsx         # Main React Component
-│   │   ├── index.css       # Styles
-│   ├── package.json        # Dependencies
-│── backend/                # Node.js Backend API
-│   ├── server.js           # Express Server
-│   ├── package.json        # Dependencies
-│── README.md               # Documentation
